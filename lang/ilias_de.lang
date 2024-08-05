@@ -1,0 +1,13 @@
+//
+// Copyright (c) 2014 Fabian Wolf <wolf@ilias.de>
+// GPLv3, see LICENSE
+//
+// @author Fabian Wolf <wolf@ilias.de>
+//
+<!-- language file start -->
+cmd_insert#:#Abstand einfügen
+edit_input_field#:#Abstand bearbeiten
+success#:#Erfolgreich gespeichert.
+size#:#Höhe
+unit#:#Einheit
+spacer#:#Abstand
